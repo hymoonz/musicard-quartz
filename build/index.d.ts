@@ -3,7 +3,7 @@ export declare class musicCard {
     name?: string;
     author?: string;
     color?: string;
-    theme?: "quartz+";
+    theme?: "quartz+" | "onepiece+" | "vector+";
     brightness?: number;
     thumbnail?: string;
     progress?: number;
@@ -14,7 +14,7 @@ export declare class musicCard {
   public setName(name: string): this;
   public setAuthor(author: string): this;
   public setColor(color: string): this;
-  public setTheme(theme: "quartz+"): this;
+  public setTheme(theme: "quartz+" | "onepiece+" | "vector+"): this;
   public setBrightness(brightness: number): this;
   public setThumbnail(thumbnail: string): this;
   public setProgress(progress: number): this;
