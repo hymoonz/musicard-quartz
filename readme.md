@@ -43,7 +43,10 @@ This is the **quartz+** output of musicCard.
 ![quartz+](https://i.imgur.com/Ej0fR2G.png)
 
 This is the **onepiece+** output of musicCard. 
-![quartz+](https://cdn.discordapp.com/attachments/1126583107429077053/1202392897857794068/musicard.png?ex=65cd4aa6&is=65bad5a6&hm=9b301a5a0728b8956a952431613a6d3aa24870a273caefcab74d8d964219ced5&)
+![onepiece+](https://i.imgur.com/W1aKxlA.png)
+
+This is the **vector+** output of musicCard. 
+![onepiece+](https://i.imgur.com/Ej0fR2G.png)
 
 
 Original musicard package by [RAMON](https://github.com/hymoonz/musicard-quartz)
