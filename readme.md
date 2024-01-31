@@ -1,5 +1,4 @@
 
-
 # musicard-quartz 🎵
 
 The kawaii 💕 npm package for generating sugoi 🤩 music cards for your apps and sites! 
@@ -42,6 +41,9 @@ Here's a preview:
 
 This is the **quartz+** output of musicCard. 
 ![quartz+](https://i.imgur.com/Ej0fR2G.png)
+
+This is the **onepiece+** output of musicCard. 
+![quartz+](https://cdn.discordapp.com/attachments/1126583107429077053/1202392897857794068/musicard.png?ex=65cd4aa6&is=65bad5a6&hm=9b301a5a0728b8956a952431613a6d3aa24870a273caefcab74d8d964219ced5&)
 
 
 Original musicard package by [RAMON](https://github.com/hymoonz/musicard-quartz)
