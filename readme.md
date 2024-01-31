@@ -41,7 +41,7 @@ Generate a quartz card like normal:
 Here's a preview:
 
 This is the **quartz+** output of musicCard. 
-![quartz+](https://cdn.discordapp.com/attachments/1198220352963219456/1202317326821896192/quartzCard.png)
+![quartz+](https://i.imgur.com/Ej0fR2G.png)
 
 
 Original musicard package by [RAMON](https://github.com/hymoonz/musicard-quartz)
