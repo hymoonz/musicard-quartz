@@ -1,0 +1,63 @@
+{
+  "name": "musicard-quartz",
+  "version": "1.0.0",
+  "description": "Discord music bot module, with aesthetic features. equipped with a music card that is different from the others.",
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
+  "scripts": {
+    "test": "node example/test"
+  },
+  "files": [
+    "build",
+    "res"
+  ],
+  "keywords": [
+    "music-card",
+    "quartz-card",
+    "musicard-quartz",
+    "discord-music-card",
+    "music-card-discord",
+    "discord.js",
+    "spotify",
+    "welcomecard",
+    "welcomecanvas",
+    "deezercanvas",
+    "youtube",
+    "image",
+    "node-canvas",
+    "canvas-constructor",
+    "discord",
+    "discord-canvas",
+    "discord-canvas-music-card",
+    "discord-canvas-music",
+    "rankcard",
+    "discord-rankcard",
+    "discord-rank-card",
+    "discord.js-rankcard",
+    "discord.js-rank-card",
+    "level",
+    "level-card",
+    "level-card-discord"
+  ],
+  "author": "hymoonz",
+  "license": "MIT",
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.44",
+    "color-thief-bun": "^1.0.3"
+  },
+  "devDependencies": {
+    "@types/node": "20.5.0",
+    "typescript": "^5.1.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hymoonz/musicard-quartz.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hymoonz/musicard-quartz/issues"
+  },
+  "homepage": "https://github.com/hymoonz/musicard-quartz#readme",
+  "directories": {
+    "example": "example"
+  }
+}
