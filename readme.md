@@ -46,7 +46,7 @@ This is the **onepiece+** output of musicCard.
 ![onepiece+](https://i.imgur.com/W1aKxlA.png)
 
 This is the **vector+** output of musicCard. 
-![onepiece+](https://i.imgur.com/Ej0fR2G.png)
+![onepiece+](https://i.imgur.com/L5lfCTQ.png)
 
 
 Original musicard package by [RAMON](https://github.com/hymoonz/musicard-quartz)
